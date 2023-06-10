@@ -7,9 +7,9 @@ document.addEventListener("DOMContentLoaded", () => {
         botaoNegativo.style.position = "absolute";
         botaoNegativo.style.left = `${x}px`;
         botaoNegativo.style.top = `${y}px`;
-    })
-})
+    });
+});
 
 function eventoDeClique() {
-    window.location.href = "https://www.youtube.com/watch?v=orWnzqBA63w&t=0s&ab_channel=YusufScott"
-}
+    window.location.href = "https://www.youtube.com/watch?v=orWnzqBA63w"
+};
